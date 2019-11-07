@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>栗林 健太郎</title>
-    <link>/</link>
-    <description>Recent content on 栗林 健太郎</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>ja</language>
-    
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kentaro Kuribayashi</title><link>https://kentarokuribayashi.com/</link><description>Recent content on Kentaro Kuribayashi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://kentarokuribayashi.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://kentarokuribayashi.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kentarokuribayashi.com/about/</guid><description>tldr; Hello, I&amp;rsquo;m Kentaro Kuribayashi. Call me Kentaro.
+Kentaro Kuribayashi is a Tokyo-based software engineer who has built a career in the Internet industry.
+He received a Bachelor&amp;rsquo;s Degree in Law from Tokyo Metropolitan University, Japan in 1999. From 2008, he started his actual career as a software engineer. He is now a board member of GMO Pepabo, Inc. and is in charge of technology and engineering as Chief Technology Officer(CTO).</description></item></channel></rss>
