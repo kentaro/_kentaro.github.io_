@@ -21,11 +21,11 @@ googleAnalytics = "UA-136101963-1"
     text = "about"
 
 [[params.mainMenu]]
-    link = "/blog/"
+    link = "/posts"
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/career/"
+    link = "/career"
     text = "career"
 
 # [[params.mainMenu]]
