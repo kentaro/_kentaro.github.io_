@@ -25,16 +25,12 @@ googleAnalytics = "UA-136101963-1"
     text = "posts"
 
 [[params.mainMenu]]
+    link = "/photos"
+    text = "photos"
+
+[[params.mainMenu]]
     link = "/career"
     text = "career"
-
-# [[params.mainMenu]]
-#     link = "/gallery"
-#     text = "gallery"
-
-# [[params.mainMenu]]
-#     link = "/portfolio"
-#     text = "portfolio"
 
 [imaging]
     quality = 100
