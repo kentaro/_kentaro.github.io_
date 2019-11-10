@@ -5,7 +5,7 @@ date: 2018-02-05T20:09:41+09:00
 
 “All the people have already connected each other” is a notable phrase said in “<a href="https://en.wikipedia.org/wiki/Serial_Experiments_Lain">Serial Experiments Lain</a>,” one of the representative Japanese animations in the 1990s. It showed a futuristic vision of the cyber world. We are able to, even now, take many ideas from it.
 
-Not same as what the IoT brings, we now have a feeling, “all the things have already connected each other.” <a href="https://thoughts.kentarok.org/from-anthropocene-to-cyberocene">As I wrote before</a>, future cyber-archeologists will mine the connections from digital garbage piled up on the cyberspace. Things are also connected with each other like people are so.
+Not same as what the IoT brings, we now have a feeling, “all the things have already connected each other.” <a href="/posts/from-anthropocene-to-cyberocene/">As I wrote before</a>, future cyber-archeologists will mine the connections from digital garbage piled up on the cyberspace. Things are also connected with each other like people are so.
 
 <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">In an impressive speech</a>, Steve Jobs once adviced we “connect the dots.” I have to admit he is right. Nevertheless, I would rather say now we should do “mining the connections” instead. It is because, from the viewpoint of the cyber-archeologists, the “dots” have been already connected each other as I mentioned above.
 
