@@ -15,6 +15,7 @@ googleAnalytics = "UA-136101963-1"
   description  = "Kentaro Kuribayashi's Website"
   images       = ["icon-192.png"]
   title        = "Kentaro Kuribayashi"
+  customCSS    = ["custom.css"]
 
 [[params.mainMenu]]
     link = "/about"

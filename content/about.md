@@ -2,9 +2,7 @@
 title: "About"
 ---
 
-**tldr**; Hello, I'm Kentaro Kuribayashi. Call me Kentaro.
-
-----
+**tl;dr**; Hello, I'm Kentaro Kuribayashi. Call me Kentaro.
 
 Kentaro Kuribayashi is a Tokyo-based software engineer who has built a career in the Internet industry, and is also an art and book enthusiast.
 
