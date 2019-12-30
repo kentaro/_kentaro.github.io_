@@ -1,0 +1,21 @@
+.wrap {
+  width: 80%;
+}
+
+hr {
+  color: #999;
+  width: 100%;
+}
+
+.grid {
+  grid-template-columns: auto;
+  grid-auto-rows: auto;
+}
+
+.grid > div > a {
+  border: none;
+}
+
+.bottom-menu {
+  padding-top: 0;
+}
