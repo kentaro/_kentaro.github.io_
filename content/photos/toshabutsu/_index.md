@@ -5,9 +5,9 @@ url: "/photos/toshabutsu"
 clickablePhotos: true
 ---
 
-Toshabutsu is a photographer collective by Kentaro Kuribayashi (me) and [Yuta Kurotaki](https://mo-fu.org/). The word "toshabutsu (吐写物)" means "photos taken like vomiting." It's also a play on words between "瀉" (vomiting) and "写" (taking photos) and both have the same sound, "sha." All the photos of theirs are available online at https://kentarokuribayashi.com/.
+Toshabutsu is a photographer collective by Kentaro Kuribayashi (me) and [Yuta Kurotaki](https://mo-fu.org/). The word "toshabutsu (吐写物)" means "photos taken like vomiting." It's also a play on words between "瀉" (vomiting) and "写" (taking photos) and both have the same sound, "sha." All the photos of theirs are available online at https://toshabutsu.com/.
 
-They appeared in Pepabo Makers Festival (PMF), a group exhibition organized by some members working for GMO Pepabo, Inc., held on May 15, 2019. At the exhibition, they presented their photos as if it were "vomited" into washbowl and around. The photos below show the state at that time.
+They appeared in Pepabo Makers Festival (PMF), a group exhibition organized by some members working for GMO Pepabo, Inc., held on May 15, 2018. At the exhibition, they presented their photos as if it were "vomited" into washbowl and around. The photos below show the state at that time.
 
 <div class="grid">
 {{< photo url="https://lh3.googleusercontent.com/mra5dZBmTsTNa8GaLHIJkZ2lqktrqRBN3-E8CwcdsE9C500EpS8gGkRM3fBdBxPRZfB-5u4xaWiDsbnje0Q1E3kkIJ_FTWLRb3TgZZUlPG-6_G8bOcnxYpSXD7IvuvTV_drPdxdjfQJyfjbjA_cyFv4eZPi6Mei4xG7QV4RyHVotjilBb7RJGuQzhwlGbARztazTZJqG9vA7igSzBVyaD1gMQom63dfEHh0asVJMAc6aV32Q0ls-ZBHd0PZTDo5SDirvTh-mRPSyc1r6yEHlxtwOpc1-IUSrvpx02vrfo9crN3B1XeEMsmWyFsDna4f1KlIvweO2Yk4JMwGGz1TSPjWWcgcsPtF3P4k-Ky4wXPskcWzVsFbEXWd0DVW6FCLZyT1inZLNRdDVynxs7q2xQp9VorujqJrpDxmY9JOM6Iaa4cT8x6Qsgv-Mz4PycsizVNWEGMB5BCMz_qvTtweow2eodysGJtokHY66bn765AEvJIC-RbsoIWb8oJ7QwusLbSB14y8FGNwNWUdwcos7s47UtJOt-Jy2JwnMd_MZM7t1U8z9jYeYBbTGeZuu1U7eIq4QX7JM9ugm4G-Qhu5rgqHP-BTg59atzavl_g089P0m2xNqil-jZkfdJMn8yeXCXe6CZOVkGqs2_pycOubzN3WVKE2qy-SbuAzYy8OuToLX6D6HXRGE0JNM=w1998-h1498-no" >}}
